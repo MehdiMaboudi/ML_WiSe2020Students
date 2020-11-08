@@ -5,7 +5,7 @@ These are some suggestions. You can also select other topics which are not liste
 - Unittest and other test libraries  
 ### kNN  
 - kNN from Byesian perpective
-- Distance weighted kNN  (Menglin Xi)
+- ~~Distance weighted kNN~~ (Menglin Xi)
 - [Neighborhood Components Analysis (NCA)](https://scikit-learn.org/stable/modules/neighbors.html#neighborhood-components-analysis)
 - [stratified Kfold cross validation](https://amueller.github.io/COMS4995-s20/slides/aml-03-supervised-learning/#35)
 - [interactive kNN](http://vision.stanford.edu/teaching/cs231n-demos/knn/)
