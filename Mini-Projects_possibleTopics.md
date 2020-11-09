@@ -7,7 +7,7 @@ These are some suggestions. You can also select other topics which are not liste
 - kNN from Byesian perpective
 - ~~Distance weighted kNN~~ (Menglin Xi)
 - [Neighborhood Components Analysis (NCA)](https://scikit-learn.org/stable/modules/neighbors.html#neighborhood-components-analysis)
-- [stratified Kfold cross validation](https://amueller.github.io/COMS4995-s20/slides/aml-03-supervised-learning/#35)
+- ~~[stratified Kfold cross validation](https://amueller.github.io/COMS4995-s20/slides/aml-03-supervised-learning/#35)~~ (Paul-Luis Gronwald)
 - [interactive kNN](http://vision.stanford.edu/teaching/cs231n-demos/knn/)
 ### Gradient Descent
 - different updating rules: Momentum, Nesterov, adam, RMSprop,... 
