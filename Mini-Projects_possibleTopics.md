@@ -3,6 +3,7 @@ These are some suggestions. You can also select other topics which are not liste
 
 ### General  
 - Unittest and other test libraries  
+- [PEP 8](https://www.python.org/dev/peps/pep-0008/) -- Style Guide for Python Code
 
 ### kNN  
 - kNN from Byesian perpective
