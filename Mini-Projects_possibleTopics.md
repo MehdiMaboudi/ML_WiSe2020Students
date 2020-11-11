@@ -13,8 +13,10 @@ These are some suggestions. You can also select other topics which are not liste
 - [interactive kNN](http://vision.stanford.edu/teaching/cs231n-demos/knn/)
 
 ### Gradient Descent
-- different updating rules: Momentum, Nesterov, adam, RMSprop,... 
-[good source](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf) 
+- Various updating rules: [good source](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf) 
+  - ~~Gradient Descent with Momentum, and NAG(Nesterov Accelerated Gradient)~~ (Noah Gollnick)
+  - Adam, RMSprop,... 
+
 - other optimization approaches like Simulated annealing, LBFGS
 
 ### Linear Regression
