@@ -17,7 +17,10 @@ These are some suggestions. You can also select other topics which are not liste
   - ~~Gradient Descent with Momentum, and NAG(Nesterov Accelerated Gradient)~~ (Noah Gollnick)
   - Adam, RMSprop,... 
   
-- How does feature scaling affect the efficiency of Gradient Descent? [Link](https://www.coursera.org/learn/machine-learning/lecture/xx3Da/gradient-descent-in-practice-i-feature-scaling)
+- How does feature scaling affect the efficiency of Gradient Descent?
+[Link1](https://www.quora.com/Why-does-mean-normalization-help-in-gradient-descent),
+[Link2](https://iopscience.iop.org/article/10.1088/1742-6596/1213/3/032021/pdf),
+[Link3](https://www.coursera.org/learn/machine-learning/lecture/xx3Da/gradient-descent-in-practice-i-feature-scaling)
 
 - other optimization approaches like Simulated annealing, LBFGS
 
