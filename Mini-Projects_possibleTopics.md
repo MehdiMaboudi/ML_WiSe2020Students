@@ -16,6 +16,8 @@ These are some suggestions. You can also select other topics which are not liste
 - Various updating rules: [good source](http://www.cs.utoronto.ca/~ilya/pubs/ilya_sutskever_phd_thesis.pdf) 
   - ~~Gradient Descent with Momentum, and NAG(Nesterov Accelerated Gradient)~~ (Noah Gollnick)
   - Adam, RMSprop,... 
+  
+  - How does feature scaling affect the efficiency of Gradient Descent? [Link](https://www.coursera.org/learn/machine-learning/lecture/xx3Da/gradient-descent-in-practice-i-feature-scaling)
 
 - other optimization approaches like Simulated annealing, LBFGS
 
