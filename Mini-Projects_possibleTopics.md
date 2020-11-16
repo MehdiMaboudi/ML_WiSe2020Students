@@ -25,5 +25,6 @@ These are some suggestions. You can also select other topics which are not liste
 - other optimization approaches like Simulated annealing, LBFGS
 
 ### Linear Regression
+- Tikhonov-regularized least squares
 
 ### Linear Classifier
