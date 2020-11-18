@@ -10,3 +10,4 @@ Before selecting a dataset, check the issues and make sure that nobody else alre
     - ~~MNIST~~
 - Regression:
     - ~~California Housing dataset~~ 
+- others:
