@@ -33,4 +33,4 @@ These are some suggestions. You can also select other topics which are not liste
 
 ### Ensemble learning
 - Ensemble learning as a regularization technique
-- AdaBoost (Tim Anders)
+- ~~AdaBoost~~ (Tim Anders)
