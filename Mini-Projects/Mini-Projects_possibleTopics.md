@@ -25,6 +25,11 @@ These are some suggestions. You can also select other topics which are not liste
 - other optimization approaches like Simulated annealing, LBFGS
 
 ### Linear Regression
-- Tikhonov-regularized least squares
+- Tikhonov-regularized ordinary least squares
+- comparing/combining kNN regression with linear regression (on Iris and another dataset)
 
 ### Linear Classifier
+- Traffic signs classification using linear classification
+
+### Ensemble learning
+- Ensemble learning as a regularization technique
