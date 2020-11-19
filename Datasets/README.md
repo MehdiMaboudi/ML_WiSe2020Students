@@ -9,8 +9,10 @@ Before selecting a dataset, check the issues and make sure that nobody else alre
 - Classification:
     - ~~Iris~~
     - ~~MNIST~~
+    - Titatic dataset (Tim Anders)
     
 - Regression:
     - ~~California Housing dataset~~ 
 
 - others:
+    - Credit Card Fraud Detection Dataset (Kristian Siebenrock)
