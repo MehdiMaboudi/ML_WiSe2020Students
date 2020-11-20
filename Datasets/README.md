@@ -10,7 +10,7 @@ Before selecting a dataset, check the issues and make sure that nobody else alre
     - ~~Iris~~
     - ~~MNIST~~
     - Titatic dataset (Tim Anders)
-    - US Election 2020_Kaggle_ (Noah Gollnick)
+    - US Election 2020 (Noah Gollnick)
     
 - Regression:
     - ~~California Housing dataset~~ 
