@@ -11,7 +11,7 @@ Before selecting a dataset, check the issues and make sure that nobody else alre
     - ~~MNIST~~
     - Titatic dataset (Tim Anders)
     - US Election 2020 (Noah Gollnick)
-    - Hand Gesture Recognition (Paul Gronwald)
+    - [Hand Gesture Recognition](https://www.kaggle.com/gti-upm/leapgestrecog) (Paul Gronwald)
 - Regression:
     - ~~California Housing dataset~~ 
 
