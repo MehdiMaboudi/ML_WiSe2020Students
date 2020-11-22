@@ -16,6 +16,8 @@ Before selecting a dataset, check the issues and make sure that nobody else alre
 - Regression:
     - ~~California Housing dataset~~ 
     - [Diamonds](https://www.kaggle.com/shivam2503/diamonds) (Paul Gronwald)  
-                Analyze diamonds by their cut, color, clarity, price, and other attributes 
+                Analyze diamonds by their cut, color, clarity, price, and other attributes  
+    - [Airbnb price in New York](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) (Xiao Cui)
+    - [Avocado Prices](https://www.kaggle.com/neuromusic/avocado-prices) (Menglin Xi)
 - others:
     - Credit Card Fraud Detection Dataset (Kristian Siebenrock)
