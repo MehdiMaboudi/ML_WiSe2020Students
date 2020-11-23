@@ -20,6 +20,7 @@ Before selecting a dataset, check the issues and make sure that nobody else alre
     - [Airbnb price in New York](https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data) (Xiao Cui)  
     - [Avocado Prices](https://www.kaggle.com/neuromusic/avocado-prices) (Menglin Xi)  
                 Historical data on avocado prices and sales volume in multiple US markets
+    - [Wine Quality Data Set](https://archive.ics.uci.edu/ml/datasets/wine+quality) (Yang Wang)
 
 - others:
     - Credit Card Fraud Detection Dataset (Kristian Siebenrock)
